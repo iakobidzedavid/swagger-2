@@ -1,0 +1,14 @@
+
+# Gstack — ephemeral/build paths (auto-excluded)
+.mcp.json
+.claude/
+.context/
+.next/
+node_modules/
+dist/
+build/
+*.log
+.pica-*/
+.hyperfx-*/
+.composio-*/
+.googleads-*/
